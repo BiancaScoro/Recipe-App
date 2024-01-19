@@ -1,0 +1,18 @@
+.home{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+
+.logo-container h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo-container img{
+    width: 100px;
+}
